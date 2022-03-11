@@ -1,0 +1,9 @@
+.App {
+  background-image: "3.jpg";
+
+  text-align: justify;
+  display: grid;
+
+  text-shadow: darkcyan;
+  background-size: cover;
+}

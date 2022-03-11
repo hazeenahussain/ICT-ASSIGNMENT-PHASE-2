@@ -1,0 +1,21 @@
+.page {
+  max-width: 100%;
+
+  color: white;
+  margin-left: -1vh;
+
+  background-color: black;
+}
+
+.page h2 {
+  text-align: center;
+  text-shadow: #556b2f 2px solid;
+  color: white;
+  fontsize: 500px;
+}
+
+.page h3 {
+  text-align: center;
+  text-shadow: #556b2f 2px solid;
+  color: rgb(206, 89, 60);
+}

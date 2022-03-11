@@ -1,0 +1,22 @@
+.associatepage {
+  max-width: 700px;
+
+  color: cornsilk;
+  margin-left: 400px;
+
+  background-color: white;
+}
+.associatepage h1 {
+  text-align: center;
+  text-shadow: #556b2f 2px solid;
+  color: rgb(248, 242, 250);
+}
+.associatepage h3 {
+  text-align: center;
+  text-shadow: #556b2f 2px solid;
+  color: rgba(244, 247, 75, 0.89);
+}
+.associatepage p {
+  border: wheat 2px solid;
+  padding: 20px;
+}

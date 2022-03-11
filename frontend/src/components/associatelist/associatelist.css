@@ -1,0 +1,35 @@
+.l {
+  text-decoration: none;
+  color: rgb(63, 214, 3);
+}
+.associatelist h2 {
+  text-align: left;
+  text-shadow: #6b402f 2px solid;
+  color: rgb(104, 111, 204);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
+.associatelist h3 {
+  text-align: left;
+  text-shadow: #6b3b2f 2px solid;
+  color: rgba(75, 213, 247, 0.89);
+  font-family: sans-serif;
+  font-style: normal;
+}
+.associatelist {
+  border: rgb(15, 53, 223) 1px solid;
+  padding: 10px;
+}
+.associatelist button {
+  border: rgb(12, 12, 11) 1px solid;
+  padding: 10px;
+  margin: 5px;
+  background-color: rgb(71, 12, 71);
+  font-family: sans-serif;
+  font-style: italic;
+  width: 100px;
+  border-radius: 10%;
+}
+.associatelist button:hover {
+  background-color: rgb(221, 43, 221);
+}
