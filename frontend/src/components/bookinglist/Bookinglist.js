@@ -32,7 +32,7 @@ const BookingList = () => {
         ictkid: event.target.getAttribute("name"),
       })
       .then((res) => {
-        alert("Successfully Deleted");
+        alert("Successfully Deleted ");
 
         navigate("../bookinglist", { replace: true });
       });
@@ -40,7 +40,7 @@ const BookingList = () => {
 
   return (
     <>
-      <h3 className="card-title">Booking Schedule</h3>
+      <h3 className="card-title">Booking Schedule editted</h3>
       {Data.map((booking, key) => (
         <div className="content-wrapper">
           <section className="content">

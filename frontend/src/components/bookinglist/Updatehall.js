@@ -46,7 +46,7 @@ const UpdateHall = (props) => {
       </div>
       <div className="row">
         <h4>
-          <center>Update Hall Details Here !!!!!</center>
+          <center>Update Hall Details Here updatted !!!!!</center>
         </h4>
       </div>
       <div className="row input-container">
